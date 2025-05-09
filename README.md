@@ -23,10 +23,10 @@
 <div align="center"> 
   <a href="mailto:abdennour.siousiou@univ-constantine2.dz 
  ">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red](https://i.pinimg.com/736x/e8/f6/ee/e8f6eec580bfd2d1d7bd4c4d11a21c7e.jpg" />
+    <img src="https://i.pinimg.com/736x/e8/f6/ee/e8f6eec580bfd2d1d7bd4c4d11a21c7e.jpg" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank](https://web.facebook.com/abdennour.siousiou.2025">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank](https://i.pinimg.com/736x/5b/b0/f7/5bb0f73a7b3e0f976acad614a42e5040.jpg" />
+  <a href="https://web.facebook.com/abdennour.siousiou.2025">
+    <img src="https://i.pinimg.com/736x/5b/b0/f7/5bb0f73a7b3e0f976acad614a42e5040.jpg" />
   </a>
  <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
