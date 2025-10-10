@@ -4,10 +4,12 @@
 
 ## 🌐 Socials:
 
-<p align="left">
+[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg)](mailto:abdennour.siousiou@univ-constantine2.dz)
+
+<!-- <p align="left">
   <a href="mailto:abdennour.siousiou@univ-constantine2.dz">
     <img src="https://www.svgrepo.com/svg/303161/gmail-icon-logo" type="svg" alt="Email" width="40" height="40" style="margin-right:15px;" />
-  </a>
+  </a> -->
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin-right:15px gap=10px" />
