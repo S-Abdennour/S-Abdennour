@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 
 <a href="mailto:abdennour.siousiou@univ-constantine2.dz">
-  <img  src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="GMAIL">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35">
 </a>
 
 <p>
