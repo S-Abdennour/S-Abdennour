@@ -6,7 +6,7 @@
 
 <p align="left">
   <a href="mailto:abdennour.siousiou@univ-constantine2.dz">
-    <img src="https://www.svgrepo.com/svg/303161/gmail-icon-logo" alt="Email" width="40" height="40" style="margin-right:15px;" />
+    <img src="https://www.svgrepo.com/svg/303161/gmail-icon-logo" type="svg" alt="Email" width="40" height="40" style="margin-right:15px;" />
   </a>
 
 <p>
