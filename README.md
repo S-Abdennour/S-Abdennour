@@ -4,8 +4,10 @@
 
 ## 🌐 Socials:
 
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg)](mailto:abdennour.siousiou@univ-constantine2.dz)
-
+<a href="mailto:abdennour.siousiou@univ-constantine2.dz">
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="GMAIL">
+ 
+</a>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" style="margin-right:15px gap=10px" />
