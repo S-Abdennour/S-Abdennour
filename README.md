@@ -2,15 +2,10 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">, I'm ABDENNOUR SIOUSIOU
 </h1>
 
-
-
 ## 🌐 Socials:
 <a href="mailto:abdennour.siousiou@univ-constantine2.dz">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35">
 </a>
-
-
-
 ## 🛠️ Languages & Tools
 <div style="display:flex; gap:40px; align-items:center; margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
