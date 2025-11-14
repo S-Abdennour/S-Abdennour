@@ -1,6 +1,6 @@
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> , I’m ABDENNOUR SIOUSIOU!
-
-Welcome to my GitHub profile!
+<h2 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">, I'm Abdennour SIOUSIOU
+</h2>
 
 
 
