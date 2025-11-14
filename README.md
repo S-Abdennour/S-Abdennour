@@ -8,7 +8,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35">
 </a>
 
-<div style=" display:flex  gap=20px width: 100vw " >
+<div style=" display:flex  gap=50px width: 100vw " >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
