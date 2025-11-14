@@ -1,11 +1,18 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">, I'm ABDENNOUR SIOUSIOU
 </h1>
+<h3 align="center">A Passionate Frontend Developer from Algeria</h3>
 
-## connect with me :
-<a href="mailto:abdennour.siousiou@univ-constantine2.dz">
+## 📬 connect with me :
+
+<a href="mailto:abdennour.siousiou@univ-constantine2.dz" target="blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35">
 </a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdennour_siousiou" height="30" width="40" /></a>
+<a href="https://fb.com/abdennour_siousiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdennour_siousiou" height="30" width="40" /></a>
+<a href="https://instagram.com/abdennour_siousiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdennour_siousiou" height="30" width="40" /></a>
+
+
 
 ## 🛠️ Languages & Tools :
 <br/>
