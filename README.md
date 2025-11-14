@@ -3,17 +3,18 @@
 </h1>
 <h3 align="center">A Passionate Frontend Developer from Algeria</h3>
 
-## 📬 connect with me :
+<h2 align="left"> 📬 Connect with me:</h2>
+<p align="left">
 
 <a href="mailto:abdennour.siousiou@univ-constantine2.dz" target="blank"><img  src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" align="center" height="40" width="40"></a> &nbsp;
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
 <a href="https://fb.com/abdennour_siousiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
 <a href="https://instagram.com/abdennour_siousiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
 
+</p>
 
+<h2 align="left"> 🛠️ Languages & Tools :</h2>  
 
-## 🛠️ Languages & Tools :
-<br/>
 
 ### 🌐 WEB Development :
 
