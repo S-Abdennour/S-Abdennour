@@ -4,14 +4,13 @@
 <h3 align="center">A Passionate Frontend Developer from Algeria</h3>
 
 <h2 align="left"> 📬 Connect with me:</h2>
-<p align="left">
-
-<a href="mailto:abdennour.siousiou@univ-constantine2.dz" target="blank"><img  src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" align="center" height="40" width="40"></a> &nbsp;
-<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
-<a href="https://fb.com/abdennour_siousiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
-<a href="https://instagram.com/abdennour_siousiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
-
-</p>
+<div align="left">
+<a href="mailto:abdennour.siousiou@univ-constantine2.dz" target="blank"><img  src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" align="center" title="GMAIL" height="40" width="40"></a> &nbsp;
+<a href="https://wa.me/213699522006" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp"  align="center" title="WhatsApp" height="40" width="40"/></a>&nbsp;
+<a href="#" target="blank"><img align="center" title="LINKDIN" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
+<a href="https://fb.com/abdennour_siousiou" target="blank"><img title="FACEBOOK" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
+<a href="https://www.instagram.com/abdennour_siousiou?igsh=NG40cTN4cDF3NDl5" target="blank"><img title="INSTAGRAM"align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
+</div>
 
 <h2 align="left"> 🛠️ Languages & Tools :</h2>  
 
@@ -34,6 +33,9 @@
 
 <br/>
 
+### Other Tools :
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=S-Abdennour&theme=dark&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Abdennour&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
