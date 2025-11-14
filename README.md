@@ -1,11 +1,6 @@
-# 💫 About Me:
-🔭 I’m currently working on c++  
-👯 I’m looking to collaborate on  
-🤝 I’m looking for help with  
-🌱 I’m currently learning  
-💬 Ask me about  
-⚡ Fun fact  
-
+<div  style="text-align = center;">
+## 👋 Hi, I'm ABDENNOUR SIOUSIOU
+</div>
 
 
 ## 🌐 Socials:
