@@ -5,7 +5,7 @@
 
 ## 📬 connect with me :
 
-<a href="mailto:abdennour.siousiou@univ-constantine2.dz" target="blank"><img  src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" align="center" height="40" width="40"></a>&nbsp;
+<a href="mailto:abdennour.siousiou@univ-constantine2.dz" target="blank"><img  src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" align="center" height="40" width="40"></a> &nbsp;
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
 <a href="https://fb.com/abdennour_siousiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
 <a href="https://instagram.com/abdennour_siousiou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
