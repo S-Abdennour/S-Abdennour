@@ -1,6 +1,7 @@
-<div  style= "text-align: center; ">
-<h1>  Hi 👋, I'm ABDENNOUR SIOUSIOU</h1> 
-</div>
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> , I’m ABDENNOUR SIOUSIOU!
+
+Welcome to my GitHub profile!
+
 
 
 ## 🌐 Socials:
