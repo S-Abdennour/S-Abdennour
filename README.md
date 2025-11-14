@@ -2,23 +2,32 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27">, I'm ABDENNOUR SIOUSIOU
 </h1>
 
-## 🌐 Socials:
+## connect with me :
 <a href="mailto:abdennour.siousiou@univ-constantine2.dz">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_icon_%282020%29.svg" alt="Gmail" width="35">
 </a>
-## 🛠️ Languages & Tools
-<div style="display:flex; gap:40px; align-items:center; margin-top:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+
+## 🛠️ Languages & Tools :
+
+### 🌐 web development :
+
+ 
+<div >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" margin-right:"30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+
 </div>
 
+### 💻 Programming language :
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=S-Abdennour&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=S-Abdennour&theme=dark&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Abdennour&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 
