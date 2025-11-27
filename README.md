@@ -37,7 +37,7 @@
 ### Other Tools :
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-# 📊 GitHub Stats:
+# 📈 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=S-Abdennour&theme=dark&hide_border=false)<br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=S-Abdennour&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
