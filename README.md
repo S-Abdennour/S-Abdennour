@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Frontend Developer from Algeria</h3>
 
 <h2 align="left"> 📬 Connect with me:</h2>
-<div align="left">
+<div align="left" flex>
 <a href="mailto:abdennour.siousiou@univ-constantine2.dz" target="blank"><img  src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="Gmail" align="center" title="GMAIL" height="40" width="40"></a> &nbsp;
 <a href="https://wa.me/213699522006" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="WhatsApp"  align="center" title="WhatsApp" height="40" width="40"/></a>&nbsp;
 <a href="#" target="blank"><img align="center" title="LINKDIN" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdennour_siousiou" height="40" width="40" /></a> &nbsp;
